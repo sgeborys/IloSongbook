@@ -1,4 +1,4 @@
-{t:🔥Dog Days Are Over}
+{t:Dog Days Are Over}
 {artist:Florence + The Machine}
 {level:Medium}
 {spotify:456WNXWhDwYOSf5SpTuqxd}

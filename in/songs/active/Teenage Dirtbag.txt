@@ -1,4 +1,4 @@
-{t:🔥Teenage Dirtbag}
+{t:Teenage Dirtbag}
 {artist:Wheatus}
 {level:Medium}
 {spotify:25FTMokYEbEWHEdss5JLZS}
